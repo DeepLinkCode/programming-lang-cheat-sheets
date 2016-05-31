@@ -1,4 +1,4 @@
-# Programming-Languages-Cheat-Sheets
+# Programming-Languages-Cheat-Sheets[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 * [(1)  Cheat Sheets – jQuery ](http://www.cheat-sheets.org/saved-copy/jQuery-1.5-Visual-Cheat-Sheet.pdf) 
 * [(2)  Cheat Sheets – HTML ] (http://www.cheat-sheets.org/saved-copy/html-cheat-sheet.png)
 * [(3)  Cheat Sheets – HTML5 Cheat Sheet ] (http://websitesetup.org/html5-cheat-sheet/)
