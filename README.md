@@ -74,3 +74,4 @@
 * [(73) Cheat Sheets – HTML5 IndexedDB ] (http://refcardz.dzone.com/refcardz/html5-indexeddb)
 * [(74) Cheat Sheets – Using XML Java ] (http://refcardz.dzone.com/refcardz/using-xml-java)
 * [(75) Cheat Sheets – HTML5 Canvas Web Standard ] (http://refcardz.dzone.com/refcardz/html5-canvas-web-standard)
+* [(76) Cheat Sheets – MongoDB cheat sheet pdf ] (https://blog.codecentric.de/files/2012/12/MongoDB-CheatSheet-v1_0.pdf)
