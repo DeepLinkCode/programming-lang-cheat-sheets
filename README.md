@@ -25,7 +25,7 @@
 * [(24) Cheat Sheets – Unix ] (http://www.cheat-sheets.org/saved-copy/unix_command_quickref.pdf)
 * [(25) Cheat Sheets – Ubuntu ] (http://www.cheat-sheets.org/saved-copy/ubunturef.pdf)
 * [(26) Cheat Sheets – WordPress ] (http://www.cheat-sheets.org/saved-copy/wpcs.png" class="grouped_elements)
-* [(27) Cheat Sheets – Nodejs ] (http://cdn.dzone.com/sites/all/files/refcardz/rc141-010d-nodejs_2.pdf)
+* [(27) Cheat Sheets – Nodejs ] (http://overapi.com/nodejs)
 * [(28) Cheat Sheets –  HTML and XHTML ] (http://www.cheat-sheets.org/saved-copy/HTML-XHTML_Tag_Sheet.pdf)
 * [(29) Cheat Sheets – XML ] (http://www.cheat-sheets.org/saved-copy/XMLquickref.pdf)
 * [(30) Cheat Sheets – Oracle ] (http://www.cheat-sheets.org/saved-copy/oracle_sql_reference.pdf)
